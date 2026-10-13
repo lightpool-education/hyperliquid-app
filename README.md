@@ -1,6 +1,6 @@
 # Tokenized Stocks App
 
-**tokenized-stocks-app** implements a **Hyperliquid-style CLOB** for tokenized stocks on LightPool—on-chain trading that feels as smooth as a CEX, without wallet popups on every order, and built for high-frequency bot trading.
+tokenized-stocks-app implements a Hyperliquid-style CLOB for tokenized stocks on LightPool—on-chain trading that feels as smooth as a CEX, without wallet popups on every order, and built for high-frequency bot trading.
 
 ```bash
 mkdir -p lightpool-labs && cd lightpool-labs
